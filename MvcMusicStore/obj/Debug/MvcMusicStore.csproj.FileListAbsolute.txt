@@ -1,0 +1,15 @@
+c:\documents and settings\user\my documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+c:\documents and settings\user\my documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+c:\documents and settings\user\my documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\user\my documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+c:\documents and settings\user\my documents\visual studio 2010\Projects\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Documents and Settings\user\Desktop\Today\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Documents and Settings\user\Desktop\Today\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Documents and Settings\user\Desktop\Today\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\Today\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Documents and Settings\user\Desktop\Today\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+G:\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+G:\MvcMusicStore\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+G:\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+G:\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+G:\MvcMusicStore\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
